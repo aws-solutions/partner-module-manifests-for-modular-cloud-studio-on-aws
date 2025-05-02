@@ -1,17 +1,12 @@
-## My Project
+# Partner Module Manifests for Modular Cloud Studio on AWS
 
-TODO: Fill this README out!
+Partner Module Manifests for Modular Cloud Studio on AWS offers a manifest for us to  
+add and remove partner modules that can be integrated with Modular Cloud Studio on AWS.
 
-Be sure to:
+# Modular Cloud Studio on AWS
 
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This project is licensed under the Apache-2.0 License.
-
+Modular Cloud Studio on AWS offers studios and content creators the ability to build a virtual and
+scalable motion picture and television production environment on AWS. This allows editors and
+creative professionals to work from anywhere in the world using only a laptop with a high-speed
+connection.  The solution provides scalable tools for user authentication, workstation management,
+pixel streaming, storage, media management, and rendering.
