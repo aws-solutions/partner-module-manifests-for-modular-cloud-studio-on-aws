@@ -1,9 +1,6 @@
 {
     "manifests": [
         {
-            "manifest_url": "https://mcs-weka-us-east-1.s3.us-east-1.amazonaws.com/weka.json"
-        },
-        {
             "manifest_url": "https://qumulo-mcs-assets-us-east-1.s3.us-east-1.amazonaws.com/qumulocluster.json"
         },
         {
