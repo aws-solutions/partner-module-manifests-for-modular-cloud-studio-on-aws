@@ -1,22 +1,4 @@
 {
     "manifests": [
-        {
-            "manifest_url": "https://mcs-weka-us-east-1.s3.us-east-1.amazonaws.com/weka.json"
-        },
-        {
-            "manifest_url": "https://qumulo-mcs-assets-us-east-1.s3.us-east-1.amazonaws.com/qumulocluster.json"
-        },
-        {
-            "manifest_url": "https://qumulo-mcs-assets-us-east-1.s3.us-east-1.amazonaws.com/qumulops.json"
-        },
-        {
-            "manifest_url": "https://editshare-mcs-assets-us-east-1.s3.us-east-1.amazonaws.com/editshare.json"
-        },
-        {
-            "manifest_url": "https://pixstor-mcs-release-eu-west-1.s3.eu-west-1.amazonaws.com/pixstor.json"
-        },
-        {
-            "manifest_url": "https://lucidlink-mcs-assets-us-west-1.s3.us-west-1.amazonaws.com/lucidlink.json"
-        }
     ]
 }
