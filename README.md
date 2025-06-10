@@ -1,6 +1,6 @@
-# Modular Cloud Studio on Aws Third-Party Modules Listing
+# Modular Cloud Studio on AWS Third-Party Modules Listing
 
-Modular Cloud Studio on Aws Third-Party Modules Listing provides a list of manifest files for Third-Party modules included
+Modular Cloud Studio on AWS Third-Party Modules Listing provides a list of manifest files for Third-Party modules included
 in the Solution. Modular Cloud Studio (MCS) on AWS pulls the information from this repo and updates the list of
 Third-Party modules available in the Module Library for users to register and enable them.
 
